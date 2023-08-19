@@ -12,7 +12,7 @@ SAP Analytics Cloud.
 Create a Planning Model.
 Create Simple Storie with Actual Data.
 
-<i>Explain more deep Statistical knowledge </i>
+<b><i>Explain more deep Statistical knowledge </i></b>
 
 Create Predictive Scenarios with different configurations and explanations.
 
