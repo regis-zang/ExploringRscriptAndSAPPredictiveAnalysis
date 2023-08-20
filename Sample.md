@@ -7,8 +7,9 @@ The Data Foundation for [Google Cloud Cortex Framework](https://cloud.google.com
 
 ```mermaid
 flowchart LR
-A[Identify needs] ---> B((shopping)) ---> C{cost/benefits}
-
+A[Yahoo Fin] --- B(R-Script) --Actual--> C{Google Drive} --Actual--> D(SAC Pred) 
+D(SAC Pred) -.Forecast.-> C{Google Drive}
+C{Google Drive} -.Forecast.-> B(R-script)
 ```
 
 
