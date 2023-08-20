@@ -1,6 +1,12 @@
 # ExploringRscriptAndSAPPredictiveAnalysis
 Forecasting the Future: Leveraging R-script, SAP SAC, and Detailed Time Series Analysis
 
+```mermaid
+flowchart LR
+A[Yahoo Fin] --- B(R-Script) --Actual--> C{Google Drive} --Actual--> D(SAC Pred) 
+D(SAC Pred) -.Forecast.-> C{Google Drive}
+C{Google Drive} -.Forecast.-> B(R-script)
+```
 
 
 
