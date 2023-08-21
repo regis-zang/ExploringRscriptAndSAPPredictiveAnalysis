@@ -36,6 +36,6 @@ Save the Forecast in Target Source.
 
 Simulate an evaluation model..
 
-![xxxx](Images/Yahoo001.PNG)
+![xxxx](Images/Yahoo001.png)
 
 
