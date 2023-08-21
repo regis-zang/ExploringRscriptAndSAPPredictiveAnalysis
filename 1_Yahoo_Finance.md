@@ -52,4 +52,7 @@ Click in top of chart Max you see the many historical data Yahoo you see the his
 >in this activities we will used the Daily granularity.
 >
 
+## Yahoo 002 - Take more trhee Similar Symbol
+as you see in your first moment yahoo finance , have some similar symbol like your actual request:
+![abc](Images/Yahoo004.png)
 
