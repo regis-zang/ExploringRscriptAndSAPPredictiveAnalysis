@@ -43,4 +43,13 @@ Now we need to take some notes:
 You see page like this:
 ![abc](Images/Yahoo002.png)
 
+Click in top of chart Max you see the many historical data Yahoo you see the historical data have there.
+![abc](Images/Yahoo003.png)
+
+>[!INFO] Important 001.
+>The historical data its crucial in this study.
+>If you use a different signal , note the historical Data.
+>in this activities we will used the Daily granularity.
+>
+
 
