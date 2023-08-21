@@ -35,6 +35,9 @@ Save the Forecast in Target Source.
 
 Simulate an evaluation model..
 
-![xxxx](Images/Yahoo001.png)
-
+It is my first project in a github.
+need your patience if some time isnt clear.
+Please let me know!
+Best regards
+Regis Zang
 
