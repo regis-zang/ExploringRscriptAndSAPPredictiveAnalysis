@@ -12,7 +12,7 @@ C{Google Drive} -.Forecast.-> B(R-script)
 #3 - Google Drive (Repository of Data Source)<br>
 #4 - SAC - Creating a Model<br>
 #5 - SAC - Setting Predictive Time Series<br>
-#6 - SAC - Different Analysis in Model Ppredictives<br>
+#6 - SAC - Different Analysis in Model Predictives<br>
 #7 - SAC - Validate The Model<br>
 #8 - Export Data Forecast in Google Drive(Repository of Data Source)<br>
 
