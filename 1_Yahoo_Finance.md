@@ -56,3 +56,9 @@ Click in top of chart Max you see the many historical data Yahoo you see the his
 as you see in your first moment yahoo finance , have some similar symbol like your actual request:
 ![abc](Images/Yahoo004.png)
 
+## Yahoo 003 - Save as CSV the list of symbol.
+Now i add im note JD, AMZN and SE.
+
+Create a new file like this:
+![abc](Images/Yahoo005.png)
+
