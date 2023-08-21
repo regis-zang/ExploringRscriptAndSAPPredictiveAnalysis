@@ -7,7 +7,7 @@ A[Yahoo Fin] --- B(R-Script) --Actual--> C{Google Drive} --Actual--> D(SAC Pred)
 D(SAC Pred) -.Forecast.-> C{Google Drive}
 C{Google Drive} -.Forecast.-> B(R-script)
 ```
-#1 -  [Yahoo Finance].1_Yahoo_Finance.md <br>
+#1 -  [Yahoo Finance].1_Yahoo_Finance.md <br> <b><i>Done</i></b>
 #2 - R-Script<br>
 #3 - Google Drive (Repository of Data Source)<br>
 #4 - SAC - Creating a Model<br>
