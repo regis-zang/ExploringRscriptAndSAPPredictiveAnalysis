@@ -40,6 +40,7 @@ Now we need to take some notes:
 1 - Select one Brand or signal to see it: used BABA - Alibaba Group Holding.
 ![abc](Images/Yahoo001.png)
 
-
+You see page like this:
+![abc](Images/Yahoo002.png)
 
 
