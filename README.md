@@ -29,7 +29,7 @@ Create Simple Storie with Actual Data.
 
 Create Predictive Scenarios with different configurations and explanations.
 
-![FluxRscriptSAC.jpg]
+
 
 
 Save the Forecast in Target Source.
