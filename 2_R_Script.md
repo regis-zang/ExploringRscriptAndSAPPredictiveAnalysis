@@ -3,7 +3,7 @@ If you are referring to the use of R language for data analysis and visualizatio
 But maybe you dont know about it, my suggestion download it now, and dont give up, trust me this language broken the wall for a great space in your mind!
 -please let me try help you to open it!
 
-
+![R-Logo](Images/R_ScriptLogo.jfif)
 
 What is R Language?
 R is a programming language and environment commonly used for data analysis, statistical computing, and graphical visualization. It was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, in the early 1990s.
