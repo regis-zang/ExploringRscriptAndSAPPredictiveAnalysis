@@ -11,3 +11,14 @@ Statistical analysis: R provides extensive built-in statistical functions and li
 
 Overall, R is a versatile and widely used language in data analysis, statistics, and research. Its open-source nature, extensive libraries, and active community make it a powerful tool for manipulating, analyzing, and visualizing data.
 
+For more information please visit this Site:
+https://cran.r-project.org/
+
+What is RStudio?
+In summary, RStudio is an integrated development environment (IDE) specifically designed for the R programming language. It provides a user-friendly interface that enhances the coding experience and supports efficient data analysis, visualization, and statistical modeling.
+
+For more information please visit this Site:
+https://posit.co/download/rstudio-desktop/
+
+
+
