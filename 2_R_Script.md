@@ -20,5 +20,29 @@ In summary, RStudio is an integrated development environment (IDE) specifically 
 For more information please visit this Site:
 https://posit.co/download/rstudio-desktop/
 
+## R-Script 001 - Install rStudio.
+Access the Rstudio site (Where have both of Distribution) R and RStudio
+
+<imagem oo1>
+where you can immerse yourself in the joy of R programming so that your coding journey becomes an adventure full of fun and creativity.
+After all installed we will start to first step.
+
+## Google Drive - If you dont have google drive.
+In this project we will use the google driive to save a project and the Data Source for SAC model.
+if you dont have account please see the support document. 3-GoogleDrive.md
+
+## R-Script 002 - Open rStudio.
+
+## R-Script 003 - What it is package.
+
+### R-Script 003.1 - quantmod.
+
+### R-Script 003.2 - xts.
+
+### R-Script 003.3 - readr.
+
+## R-Script 004 - Hands on RScript.
+
+
 
 
