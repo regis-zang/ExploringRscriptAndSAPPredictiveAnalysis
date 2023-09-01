@@ -77,5 +77,9 @@ Line 68 - Write the directory where your code need to save the resultset.
   My sample: 
     StockProjFolder <- "C:/Users/RZang/Meu Drive/ForecastRscriptAndSAC/File_Source/"
 
+>[!example]- Note001.
+>in line 11 - comented the comand to install the package if is necessary.
+>#install.packages("quantmod")
+
 
 
