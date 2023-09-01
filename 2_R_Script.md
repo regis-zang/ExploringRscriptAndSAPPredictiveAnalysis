@@ -48,11 +48,15 @@ Just like tourists sharing their experiences, R programmers and users recommend 
 Remember, in Rville, there's an endless variety of packages waiting for you to discover. So grab your backpack, browse the extensive package collection, and embark on an exciting journey to enhance your R language experience!
 
 ### R-Script 003.1 - quantmod.
+https://github.com/joshuaulrich/quantmod
 In the R language, quantmod is a widely-used package that provides a set of functions and tools for quantitative financial modeling and trading analysis. It primarily focuses on the retrieval, analysis, and visualization of financial data.
 ### R-Script 003.2 - xts.
-
+https://cran.r-project.org/web/packages/xts/index.html
+With the xts package, you can perform various operations on time series data, including subsetting, merging, aggregating, and applying mathematical functions. It also supports a wide range of time-based indexing and allows for straightforward handling of irregularly-spaced and regularly-spaced time series.
 
 ### R-Script 003.3 - readr.
+https://cran.r-project.org/web/packages/readr/index.html
+In summary, the readr package is a useful tool for efficiently reading structured data from files into R, providing a convenient and versatile way to import data for further analysis and manipulation.
 
 ## R-Script 004 - Hands on RScript.
 
