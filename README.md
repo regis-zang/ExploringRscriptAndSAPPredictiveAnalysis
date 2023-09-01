@@ -37,6 +37,11 @@ Simulate an evaluation model..
 
 It is my first project in a github.
 need your patience if some time isnt clear.
+
+Remember this project i try to explain all step need to do and allow you to see in another perspective its possible to learn and enjoy in same time.
+With this i used to better way and you see all are is necessary to anderstand any point.
+And if is not clear , again let me know.
+
 Please let me know!
 Best regards
 Regis Zang
