@@ -14,7 +14,7 @@ library(xts)
 library(readr)
 #Select Folders Project
 #Note you need to set your Project folder
-StockProjFolder <- "C:/Users/RZang/Meu Drive/ForecastRscriptAndSAC/ProjectR/"
+StockProjFolder <- "C:/XXXYOURLOCATIONXXXXX/ForecastRscriptAndSAC/ProjectR/"
 
 #Set Work Place
 setwd(StockProjFolder)
