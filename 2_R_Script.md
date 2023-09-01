@@ -59,6 +59,15 @@ https://cran.r-project.org/web/packages/readr/index.html
 In summary, the readr package is a useful tool for efficiently reading structured data from files into R, providing a convenient and versatile way to import data for further analysis and manipulation.
 
 ## R-Script 004 - Hands on RScript.
+Open rStudio. Image Rsctudio.
+![R-Logo](Images/R_ScriptLogo.jfif)
+
+
+Open the File in your space. 
+Note - you need two files like this image bellow.
+<image R_Script003>
+
+
 
 
 
