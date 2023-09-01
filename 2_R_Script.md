@@ -66,7 +66,7 @@ Open rStudio. Image Rsctudio.
 
 Open the File in your space. 
 Note - you need two files like this image bellow.
-<image R_Script003>
+![R-Logo](Images/R_Script003.jpg)
 
 Now open GetStockHist.r
 Change you need to do:
@@ -85,7 +85,7 @@ Line 68 - Write the directory where your code need to save the resultset.
 
 To run , just click in the button Run or Ctrl+Shift+Enter.
 Congratulation , now you have the data source to go to next step. Google Drive>
-<image R_Script004>
+![R-Logo](Images/R_Script004.jpg)
 
 
 
