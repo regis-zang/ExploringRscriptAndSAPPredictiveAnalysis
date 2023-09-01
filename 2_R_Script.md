@@ -23,7 +23,8 @@ https://posit.co/download/rstudio-desktop/
 ## R-Script 001 - Install rStudio.
 Access the Rstudio site (Where have both of Distribution) R and RStudio
 
-<imagem oo1>
+![R-Logo](Images/R_Script001.jpg)
+
 where you can immerse yourself in the joy of R programming so that your coding journey becomes an adventure full of fun and creativity.
 After all installed we will start to first step.
 
@@ -60,7 +61,7 @@ In summary, the readr package is a useful tool for efficiently reading structure
 
 ## R-Script 004 - Hands on RScript.
 Open rStudio. Image Rsctudio.
-![R-Logo](Images/R_Script001.jpg)
+![R-Logo](Images/R_Script002.jpg)
 
 
 Open the File in your space. 
