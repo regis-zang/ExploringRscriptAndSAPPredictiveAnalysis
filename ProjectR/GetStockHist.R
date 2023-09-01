@@ -75,7 +75,7 @@ FullName = paste0(name_file_1,".csv")
 write.csv(DF_SAC_DS,FullName, row.names = FALSE)
 
 #Note you need to set your Project folder
-StockProjFolder <- "C:/Users/RZang/Meu Drive/ForecastRscriptAndSAC/ProjectR/"
+StockProjFolder <- "C:/XXXYOURLOCATIONXXXXX/ForecastRscriptAndSAC/ProjectR/"
 
 #Set Work Place
 setwd(StockProjFolder)
