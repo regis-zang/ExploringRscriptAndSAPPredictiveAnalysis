@@ -60,7 +60,7 @@ In summary, the readr package is a useful tool for efficiently reading structure
 
 ## R-Script 004 - Hands on RScript.
 Open rStudio. Image Rsctudio.
-![R-Logo](Images/R_ScriptLogo.jfif)
+![R-Logo](Images/R_Script001.jpg)
 
 
 Open the File in your space. 
