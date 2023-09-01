@@ -1,10 +1,10 @@
 Now we start to use the google drive.
 
-![R-Logo](Images/R_ScriptLogo.jfif)
+![R-Logo](Images/GDrive000.jpg)
 
-What is R Language?
-R is a programming language and environment commonly used for data analysis, statistical computing, and graphical visualization. It was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, in the early 1990s.
-Statistical analysis: R provides extensive built-in statistical functions and libraries for conducting descriptive statistics, hypothesis testing, regression analysis, time series analysis, clustering, classification, and more. These capabilities make it an ideal tool for scientific research and data-driven decision-making.
+Remember this project i try to explain all step need to do and allow you to see in another perspective its possible to learn and enjoy in same time.
+With this i used to better way and you see all are is necessary to anderstand any point.
+And if is not clear , again let me know.
 
 Overall, R is a versatile and widely used language in data analysis, statistics, and research. Its open-source nature, extensive libraries, and active community make it a powerful tool for manipulating, analyzing, and visualizing data.
 
