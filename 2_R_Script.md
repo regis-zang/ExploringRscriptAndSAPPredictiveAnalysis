@@ -32,12 +32,25 @@ In this project we will use the google driive to save a project and the Data Sou
 if you dont have account please see the support document. 3-GoogleDrive.md
 
 ## R-Script 002 - Open rStudio.
+in this IDE , now its possible to make a first steps.
+My recomendation are open the file source, what save in ProjectR folder. [GetStockHist.r]
 
 ## R-Script 003 - What it is package.
+Imagine you're planning a trip to a new city called Rville, and you want to make the most out of your adventure in the R language. Well, think of R packages as the attractions, activities, and tools that make your journey in Rville exciting and fun!
+
+Each R package is like a unique destination within Rville, offering you specific features, functions, and capabilities. Just like choosing attractions for your trip, you can select and install different R packages based on your needs and interests.
+
+For example, if you want to explore data visualization, you might visit the ggplot2 , trust me this package works in SAC code, but this subject it other moment we talk about.
+package, known for its beautiful and customizable plots. If you're into statistical analysis, you could head to the stats package, offering various statistical functions. And if you're venturing into machine learning, you might want to stop by the caret or tensorflow packages.
+
+Just like tourists sharing their experiences, R programmers and users recommend their favorite packages. You can find these packages in the official "Rville Tourist Guide," also known as the Comprehensive R Archive Network (CRAN), or in other popular package repositories like GitHub.
+
+Remember, in Rville, there's an endless variety of packages waiting for you to discover. So grab your backpack, browse the extensive package collection, and embark on an exciting journey to enhance your R language experience!
 
 ### R-Script 003.1 - quantmod.
-
+In the R language, quantmod is a widely-used package that provides a set of functions and tools for quantitative financial modeling and trading analysis. It primarily focuses on the retrieval, analysis, and visualization of financial data.
 ### R-Script 003.2 - xts.
+
 
 ### R-Script 003.3 - readr.
 
