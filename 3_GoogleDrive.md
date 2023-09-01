@@ -23,3 +23,8 @@ Add new folder.
 ## Google Drive 005 - Upload The file.
 ![R-Logo](Images/GDrive005.jpg)
 
+
+## Google Drive 006 - one more works done.
+![R-Logo](Images/the-office-handshake.jpg)
+
+
