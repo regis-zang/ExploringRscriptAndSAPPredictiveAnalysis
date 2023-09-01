@@ -67,8 +67,15 @@ Open the File in your space.
 Note - you need two files like this image bellow.
 <image R_Script003>
 
+Now open GetStockHist.r
+Change you need to do:
+Line 17 and Line 78 - Write the directory where your code need to save and run.
+  My sample: 
+    StockProjFolder <- "C:/Users/RZang/Meu Drive/ForecastRscriptAndSAC/ProjectR/"
 
-
+Line 68 - Write the directory where your code need to save the resultset.
+  My sample: 
+    StockProjFolder <- "C:/Users/RZang/Meu Drive/ForecastRscriptAndSAC/File_Source/"
 
 
 
