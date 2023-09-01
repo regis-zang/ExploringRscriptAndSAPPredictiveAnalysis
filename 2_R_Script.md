@@ -83,8 +83,10 @@ Line 68 - Write the directory where your code need to save the resultset.
 
 
 To run , just click in the button Run or Ctrl+Shift+Enter.
-Congratulation , now you have the data source to go to next step. SAC modeling>
+Congratulation , now you have the data source to go to next step. Google Drive>
 <image R_Script004>
+
+
 
 
 
