@@ -30,6 +30,23 @@ C - New Model (Recomendation) <br>
 ![R-Logo](Images/SAC_Model004.jpg) 
 
 ## SAC Modeling 003 - Configurate model:
-A - In SAC Tenant, click in Modeler into trhee dot. <br>
+Now you need to do it the model. <br>
+D - add the measure.
+![R-Logo](Images/SAC_Model005.jpg) 
+
+<br><br>
+### SAC Configurate model Create Measures
+E - add the measure.
+![R-Logo](Images/SAC_Model006.jpg) 
+
+
+F - OPEN.
+![R-Logo](Images/SAC_Model007.jpg) 
+
+G - High.
+![R-Logo](Images/SAC_Model008.jpg) 
+
+<br><br>
+
 
 
