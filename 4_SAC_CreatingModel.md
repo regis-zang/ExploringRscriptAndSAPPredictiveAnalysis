@@ -34,17 +34,37 @@ Now you need to do it the model. <br>
 D - add the measure.
 ![R-Logo](Images/SAC_Model005.jpg) 
 
-<br><br>
+
 ### SAC Configurate model Create Measures
-E - add the measure.
-![R-Logo](Images/SAC_Model006.jpg) 
-
-
-F - OPEN.
+E - OPEN.
 ![R-Logo](Images/SAC_Model007.jpg) 
 
-G - High.
+F - High.
 ![R-Logo](Images/SAC_Model008.jpg) 
+
+G - LOW.
+![R-Logo](Images/SAC_Model009.jpg) 
+
+H - Close.
+![R-Logo](Images/SAC_Model010.jpg) 
+
+I - VOLUME.
+![R-Logo](Images/SAC_Model011.jpg) 
+
+I - Adjusted.
+![R-Logo](Images/SAC_Model012.jpg) 
+
+I - Adjusted.
+![R-Logo](Images/SAC_Model012.jpg) 
+
+### SAC Configurate Calendar Dimension
+J - Date Dimension.
+![R-Logo](Images/SAC_Model013.jpg) 
+
+K - Date Dimension Detail.
+![R-Logo](Images/SAC_Model014_p1.jpg) <br>
+![R-Logo](Images/SAC_Model014_p2.jpg) 
+
 
 <br><br>
 
