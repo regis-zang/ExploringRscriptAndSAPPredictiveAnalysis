@@ -1,5 +1,5 @@
 Now you start to make your job in SAP Analitic Cloud.
-![](Images/SAP-Analytics-Cloud-Logo.jpg=250x250)
+!(Images/SAP-Analytics-Cloud-Logo.jpg)
 
 
 
