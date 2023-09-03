@@ -75,7 +75,10 @@ is the closing price after adjustments for all applicable splits and dividend di
 <center> <img src="Images/SAC_Model012.jpg" width="150" height="200"> </center>
 
 ### SAC Configurate Calendar Dimension
-J - Date Dimension.
+J - Date Dimension.<br>
+Now we talk about The time!<br>
+<center> <img src="Images/DeloreanDashboard.jpg" width="800" height="400"> </center><br>
+
 ![R-Logo](Images/SAC_Model013.jpg) 
 
 K - Date Dimension Detail.
