@@ -21,7 +21,7 @@ A[Measures] === Z[Calculations]
 ```
 ## SAC Modeling 002 - Create a new model:
 A - In SAC Tenant, click in Modeler into trhee dot. <br>
-![R-Logo](Images/SAC_Model001.jpg)
+<center> <img src="Images/SAC_Model001.jpg" width="200" height="100"> </center>
 
 B - Create New. <br>
 ![R-Logo](Images/SAC_Model002.jpg) 
