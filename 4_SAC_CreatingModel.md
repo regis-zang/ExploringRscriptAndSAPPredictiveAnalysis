@@ -45,7 +45,7 @@ D - add the measure.
 E - OPEN.<br>
 The open price is the first price a stock trades at during the day. For active stocks that price will likely be set right at the market open, which occurs at 9:30am Eastern Standard Time.
 <BR>
-<center> <img src="Images/SAC_Model007.jpg" width="250" height="200"> </center>
+<center> <img src="Images/SAC_Model007.jpg" width="150" height="200"> </center>
 
 -------
 F - High.
