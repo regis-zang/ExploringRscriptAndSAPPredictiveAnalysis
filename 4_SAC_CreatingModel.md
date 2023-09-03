@@ -17,6 +17,19 @@ C{Fact Table} -.Stock Values.-> A[Measures]
 A[Measures] === Z[Calculations]
 
 ```
+## SAC Modeling 002 - Create a new model:
+A - In SAC Tenant, click in Modeler into trhee dot. <br>
+![R-Logo](Images/SAC_Model001.jpg)
+
+B - Create New. <br>
+![R-Logo](Images/SAC_Model002.jpg) 
+<br>
+![R-Logo](Images/SAC_Model003.jpg) 
+<br>
+C - New Model (Recomendation) <br>
+![R-Logo](Images/SAC_Model004.jpg) 
+
+## SAC Modeling 003 - Configurate model:
+A - In SAC Tenant, click in Modeler into trhee dot. <br>
 
 
-## SAC Modeling 002 - XIXIXIXIXIX
