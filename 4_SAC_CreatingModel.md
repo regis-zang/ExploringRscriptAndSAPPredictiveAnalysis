@@ -6,8 +6,8 @@ In this document we will create a model in SAC.<br>
 To this we need go SAC.
 
 ## SAC Modeling 001 - Points we need to know
-This model we wil create to get each objects as necessary in this material.
-Below have a simple diagram when you need to know.
+This model we wil create to get each objects as necessary in this material.<br>
+Below have a simple diagram what you need to know.
 ```mermaid
 flowchart LR
 B(Date Dim) === C{Fact Table}
