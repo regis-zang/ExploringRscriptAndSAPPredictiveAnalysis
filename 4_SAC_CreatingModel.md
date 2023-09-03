@@ -13,7 +13,7 @@ flowchart LR
 B(Date Dim) === C{Fact Table}
 D(Symbol Dim) === C{Fact Table}
 E(Company Dim) === C{Fact Table}
-C{Fact Table} -.Cst.ID.-> A[Measures]
+C{Fact Table} -.Stock Values.-> A[Measures]
 A[Measures] === Z[Calculations]
 
 ```
