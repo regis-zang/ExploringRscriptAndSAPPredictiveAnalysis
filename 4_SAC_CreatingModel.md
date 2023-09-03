@@ -30,7 +30,8 @@ B - Create New. <br>
 
 <br>
 C - New Model (Recomendation) <br>
-![R-Logo](Images/SAC_Model004.jpg) 
+<center> <img src="Images/SAC_Model004.jpg" width="400" height="200"> </center> <br>
+
 
 ## SAC Modeling 003 - Configurate model:
 Now you need to do it the model. <br>
