@@ -63,6 +63,7 @@ J - Date Dimension.
 
 K - Date Dimension Detail.
 ![R-Logo](Images/SAC_Model014_p1.jpg) <br>
+![R-Logo](Images/SAC_Model014_p2.jpg) <br>
 
 
 
