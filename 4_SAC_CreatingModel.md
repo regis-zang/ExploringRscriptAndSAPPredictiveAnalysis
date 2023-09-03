@@ -25,8 +25,6 @@ A - In SAC Tenant, click in Modeler into trhee dot. <br>
 
 B - Create New. <br>
 <center> <img src="Images/SAC_Model002.jpg" width="600" height="200"> </center> <br>
-
-![R-Logo](Images/SAC_Model002.jpg) 
 <br>
 <center> <img src="Images/SAC_Model003.jpg" width="200" height="100"> </center> <br>
 
