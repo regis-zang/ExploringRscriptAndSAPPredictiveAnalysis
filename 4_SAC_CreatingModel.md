@@ -61,17 +61,18 @@ The low is a stock's lowest trading price for the day. 52-week high and low. The
 <BR>
 <center> <img src="Images/SAC_Model009.jpg" width="150" height="200"> </center>
 
-H - Close.
-![R-Logo](Images/SAC_Model010.jpg) 
+H - Close.<br>
+the closing price after adjustments for all applicable splits and dividend distributions.<br>
+<center> <img src="Images/SAC_Model010.jpg" width="150" height="200"> </center>
 
-I - VOLUME.
-![R-Logo](Images/SAC_Model011.jpg) 
+I - VOLUME.<br>
+is the number of shares of a security traded during a given period of time.<br>
+<center> <img src="Images/SAC_Model011.jpg" width="150" height="200"> </center>
 
-I - Adjusted.
-![R-Logo](Images/SAC_Model012.jpg) 
 
-I - Adjusted.
-![R-Logo](Images/SAC_Model012.jpg) 
+I - Adjusted.<br>
+is the closing price after adjustments for all applicable splits and dividend distributions. Data is adjusted using appropriate split and dividend multipliers, adhering to Center for Research in Security Prices (CRSP) standards.<br>
+<center> <img src="Images/SAC_Model012.jpg" width="150" height="200"> </center>
 
 ### SAC Configurate Calendar Dimension
 J - Date Dimension.
