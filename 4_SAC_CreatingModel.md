@@ -54,8 +54,10 @@ The high represents a stock's highest trading price for the day.<br>
 <center> <img src="Images/SAC_Model008.jpg" width="150" height="200"> </center>
 
 
-G - LOW.
-![R-Logo](Images/SAC_Model009.jpg) 
+G - LOW.<br>
+The low is a stock's lowest trading price for the day. 52-week high and low. The 52-week high and low are a stock's highest and lowest<br>
+<BR>
+<center> <img src="Images/SAC_Model009.jpg" width="150" height="200"> </center>
 
 H - Close.
 ![R-Logo](Images/SAC_Model010.jpg) 
