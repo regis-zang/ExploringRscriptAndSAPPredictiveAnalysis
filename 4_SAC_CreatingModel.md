@@ -1,7 +1,7 @@
 Now you start to make your job in SAP Analitic Cloud.
 
 <br>
-<center> </center><img src="Images/SAP-Analytics-Cloud-Logo.jpg" width="200" height="100"> </center>
+<center> <img src="Images/SAP-Analytics-Cloud-Logo.jpg" width="200" height="100"> </center>
 
 
 In this document we will create a model in SAC.<br>
