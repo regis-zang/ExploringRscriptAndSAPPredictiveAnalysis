@@ -36,7 +36,8 @@ C - New Model (Recomendation) <br>
 ## SAC Modeling 003 - Configurate model:
 Now you need to do it the model. <br>
 D - add the measure.
-![R-Logo](Images/SAC_Model005.jpg) 
+<center> <img src="Images/SAC_Model005.jpg" width="300" height="200"> </center> 
+
 
 
 ### SAC Configurate model Create Measures
