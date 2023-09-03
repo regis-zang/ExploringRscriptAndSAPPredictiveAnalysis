@@ -1,5 +1,5 @@
 Now you start to make your job in SAP Analitic Cloud.
-![R-Logo](Images/GDrive000.jpg)
+![R-Logo](Images/SAP-Analytics-Cloud-Logo.jpg)
 
 
 In this document we will create a model in SAC.
