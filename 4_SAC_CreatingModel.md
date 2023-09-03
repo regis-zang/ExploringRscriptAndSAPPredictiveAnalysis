@@ -30,7 +30,7 @@ B - Create New. <br>
 
 <br>
 C - New Model (Recomendation) <br>
-<center> <img src="Images/SAC_Model004.jpg" width="400" height="200"> </center> <br>
+<center> <img src="Images/SAC_Model004.jpg" width="300" height="200"> </center> <br>
 
 
 ## SAC Modeling 003 - Configurate model:
