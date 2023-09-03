@@ -38,7 +38,7 @@ Now you need to do it the model. <br>
 D - add the measure.
 <center> <img src="Images/SAC_Model005.jpg" width="150" height="100"> </center>  <br>
 <BR>
-<center> <img src="Images/SAC_Model006.jpg" width="150" height="100"> </center>
+<center> <img src="Images/SAC_Model006.jpg" width="250" height="200"> </center>
 
 
 ### SAC Configurate model Create Measures
