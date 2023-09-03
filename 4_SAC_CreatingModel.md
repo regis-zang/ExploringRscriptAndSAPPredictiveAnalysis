@@ -42,9 +42,12 @@ D - add the measure.
 
 
 ### SAC Configurate model Create Measures
-E - OPEN.
-![R-Logo](Images/SAC_Model007.jpg) 
+E - OPEN.<br>
+The open price is the first price a stock trades at during the day. For active stocks that price will likely be set right at the market open, which occurs at 9:30am Eastern Standard Time.
+<BR>
+<center> <img src="Images/SAC_Model007.jpg" width="250" height="200"> </center>
 
+-------
 F - High.
 ![R-Logo](Images/SAC_Model008.jpg) 
 
