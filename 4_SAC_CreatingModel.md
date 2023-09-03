@@ -48,8 +48,11 @@ The open price is the first price a stock trades at during the day. For active s
 <center> <img src="Images/SAC_Model007.jpg" width="150" height="200"> </center>
 
 -------
-F - High.
-![R-Logo](Images/SAC_Model008.jpg) 
+F - High.<br>
+The high represents a stock's highest trading price for the day.<br>
+<BR>
+<center> <img src="Images/SAC_Model008.jpg" width="150" height="200"> </center>
+
 
 G - LOW.
 ![R-Logo](Images/SAC_Model009.jpg) 
