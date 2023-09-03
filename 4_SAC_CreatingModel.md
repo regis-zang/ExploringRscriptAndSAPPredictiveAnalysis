@@ -40,7 +40,7 @@ D - add the measure.
 <BR>
 <center> <img src="Images/SAC_Model006.jpg" width="250" height="200"> </center>
 <BR>
-<center> <img src="Images/SAC_Model006_A.jpg" width="250" height="200"> </center>
+<center> <img src="Images/SAC_Model006_A.jpg" width="600" height="200"> </center>
 
 
 ### SAC Configurate model Create Measures
