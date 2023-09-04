@@ -78,10 +78,23 @@ is the closing price after adjustments for all applicable splits and dividend di
 J - Date Dimension.<br>
 Now we talk about The time!<br>
 <center> <img src="Images/DeloreanDashboard.jpg" width="800" height="400"> </center><br>
-
+Click in Date!<br>
 ![R-Logo](Images/SAC_Model013.jpg) 
 
 K - Date Dimension Detail.
+The Dimension Date at a granularity of Day is a crucial aspect when analyzing and working with historical data since 2007. Here are some key reasons for its importance:
+
+Time-based analysis: With a Dimension Date at Day granularity, you can perform detailed time-based analysis. This allows you to identify trends, seasonal patterns, and anomalies within the data on a daily basis. Granularity at the day level enables a comprehensive understanding of how variables evolve and interact over time.
+
+Historical context: By starting the Dimension Date from 2007, you have a substantial historical timeframe. This long-term historical perspective is valuable for evaluating how variables, such as stock prices, have changed and evolved over the years. It provides context for generating insights based on long-term trends and patterns.
+
+Comparative analysis: The Dimension Date allows you to compare and contrast data across different time periods. You can analyze performance metrics, such as daily returns or trading volumes, over specific time ranges and make comparisons to identify patterns, changes, or anomalies. This comparative analysis helps in understanding how metrics have shifted over time.
+
+Forecasting and predictive modeling: Historical data with a Dimension Date at a day granularity is ideal for developing forecasting models and predictive analytics. By leveraging the rich historical dataset, you can build accurate and robust models that capture the dynamics and variability of underlying variables over time. These models can help anticipate future trends and make informed decisions.
+
+Data-driven decision making: With detailed historical data and a Day granularity, you can make data-driven decisions with greater confidence. By analyzing patterns and trends, you can identify correlations, causations, and potential factors influencing the data. This information can guide important business decisions, investment strategies, or risk assessments based on solid historical evidence.
+
+In summary, the Dimension Date at a granularity of Day, covering historical data from 2007, provides a comprehensive and rich context for extensive time-based analysis. It enables a deep understanding of historical trends, supports comparative analysis, facilitates forecasting and predictive modeling, and drives data-driven decision making. Utilizing this invaluable historical data can help uncover insights and drive actionable outcomes.<br><br>
 ![R-Logo](Images/SAC_Model014_p1.jpg) <br>
 ![R-Logo](Images/SAC_Model014_p2.jpg) <br>
 
