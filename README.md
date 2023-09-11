@@ -8,8 +8,7 @@ D(SAC Pred) -.Forecast.-> C{Google Drive}
 C{Google Drive} -.Forecast.-> B(R-script)
 ```
 [#1 - Yahoo Finance](https://github.com/regis-zang/ExploringRscriptAndSAPPredictiveAnalysis/blob/main/1_Yahoo_Finance.md)
-#1 -  [Yahoo Finance].1_Yahoo_Finance.md  <b><i>Done</i></b> <br>
-#2 - R-Script <b><i>Done</i></b> <br> 
+[#2 - R-Script](https://github.com/regis-zang/ExploringRscriptAndSAPPredictiveAnalysis/blob/main/2_R_Script.md) 
 #3 - Google Drive (Repository of Data Source) <b><i>Done</i></b> <br>
 #4 - SAC - Creating a Model  <b><i>W.I.P. 11-sep-2023 </i></b> <br> 
 #5 - SAC - Setting Predictive Time Series 18-sep-2023 <br>
