@@ -124,6 +124,10 @@ See in your model:<BR>
 ## SAP Analytics Cloud  - one more works done.
 ![R-Logo](Images/WonkaHalfThere.jpg) <BR><BR>
 
+<br><br>
+### SAC Create Calculated Measure 
+Now all entity are created and before start to fill tis model left some nice objects what we will used in our model. <BR>
+
 
 
 
