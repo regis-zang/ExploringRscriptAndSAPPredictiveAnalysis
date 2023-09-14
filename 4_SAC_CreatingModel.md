@@ -99,7 +99,7 @@ In summary, the Dimension Date at a granularity of Day, covering historical data
 ![R-Logo](Images/SAC_Model014_p2.jpg) <br>
 
 <br><br>
-### SAC Configurate Others Dimensions
+### SAC Configurate Others Dimensions 
 L - Click in Add New Dimension. <br>
 ![R-Logo](Images/SAC_Model015.jpg) <br><br>
 
