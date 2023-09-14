@@ -98,9 +98,31 @@ In summary, the Dimension Date at a granularity of Day, covering historical data
 ![R-Logo](Images/SAC_Model014_p1.jpg) <br>
 ![R-Logo](Images/SAC_Model014_p2.jpg) <br>
 
-
-
 <br><br>
+### SAC Configurate Others Dimensions
+L - Click in Add New Dimension. <br>
+![R-Logo](Images/SAC_Model015.jpg) <br>
+
+M - Symbol in Name and in Type Generic.
+![R-Logo](Images/SAC_Model016.jpg) <br>
+
+N - Repeat Again to create a CompanySymbol.
+![R-Logo](Images/SAC_Model017.jpg) <br>
+![R-Logo](Images/SAC_Model018.jpg) <br>
+
+O - Now you have something like bellow:
+![R-Logo](Images/SAC_Model019.jpg) <br>
+
+P - Save your Model.
+![R-Logo](Images/SAC_Model020.jpg) <br>
+Name: SAC_Predict_StockAnalysis<br>
+Description: SAC Predictive analysis in Stock Market Yahoo DATA<br>
+![R-Logo](Images/SAC_Model021.jpg) <br>
+See in your model:<br>
+![R-Logo](Images/SAC_Model022.jpg) <br>
+
+
+
 
 
 
