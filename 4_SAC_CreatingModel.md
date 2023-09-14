@@ -121,7 +121,8 @@ Description: SAC Predictive analysis in Stock Market Yahoo DATA<BR>
 See in your model:<BR>
 ![R-Logo](Images/SAC_Model022.jpg) <BR><BR>
 
-
+## SAP Analytics Cloud  - one more works done.
+![R-Logo](Images/WonkaHalfThere.jpg) <BR><BR>
 
 
 
