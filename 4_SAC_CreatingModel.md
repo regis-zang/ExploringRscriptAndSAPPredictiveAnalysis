@@ -95,31 +95,31 @@ Forecasting and predictive modeling: Historical data with a Dimension Date at a 
 Data-driven decision making: With detailed historical data and a Day granularity, you can make data-driven decisions with greater confidence. By analyzing patterns and trends, you can identify correlations, causations, and potential factors influencing the data. This information can guide important business decisions, investment strategies, or risk assessments based on solid historical evidence.
 
 In summary, the Dimension Date at a granularity of Day, covering historical data from 2007, provides a comprehensive and rich context for extensive time-based analysis. It enables a deep understanding of historical trends, supports comparative analysis, facilitates forecasting and predictive modeling, and drives data-driven decision making. Utilizing this invaluable historical data can help uncover insights and drive actionable outcomes.<br><br>
-![R-Logo](Images/SAC_Model014_p1.jpg) <br>
-![R-Logo](Images/SAC_Model014_p2.jpg) <br>
+![R-Logo](Images/SAC_Model014_p1.jpg) <BR>
+![R-Logo](Images/SAC_Model014_p2.jpg) <BR>
 
 <br><br>
 ### SAC Configurate Others Dimensions 
-L - Click in Add New Dimension. <br>
-![R-Logo](Images/SAC_Model015.jpg) <br><br>
+L - Click in Add New Dimension. <BR>
+![R-Logo](Images/SAC_Model015.jpg) <BR><BR>
 
-M - Symbol in Name and in Type Generic.
-![R-Logo](Images/SAC_Model016.jpg) <br><br>
+M - Symbol in Name and in Type Generic.<BR>
+![R-Logo](Images/SAC_Model016.jpg) <BR><BR>
 
-N - Repeat Again to create a CompanySymbol.
-![R-Logo](Images/SAC_Model017.jpg) <br>
-![R-Logo](Images/SAC_Model018.jpg) <br><br>
+N - Repeat Again to create a CompanySymbol.<BR>
+![R-Logo](Images/SAC_Model017.jpg) <BR>
+![R-Logo](Images/SAC_Model018.jpg) <BR><BR>
 
-O - Now you have something like bellow:
-![R-Logo](Images/SAC_Model019.jpg) <br><br>
+O - Now you have something like bellow:<BR>
+![R-Logo](Images/SAC_Model019.jpg) <BR><BR>
 
-P - Save your Model.
-![R-Logo](Images/SAC_Model020.jpg) <br>
-Name: SAC_Predict_StockAnalysis<br>
-Description: SAC Predictive analysis in Stock Market Yahoo DATA<br>
-![R-Logo](Images/SAC_Model021.jpg) <br><br>
-See in your model:<br>
-![R-Logo](Images/SAC_Model022.jpg) <br><br>
+P - Save your Model.<BR>
+![R-Logo](Images/SAC_Model020.jpg) <BR>
+Name: SAC_Predict_StockAnalysis <BR>
+Description: SAC Predictive analysis in Stock Market Yahoo DATA<BR>
+![R-Logo](Images/SAC_Model021.jpg) <BR><BR>
+See in your model:<BR>
+![R-Logo](Images/SAC_Model022.jpg) <BR><BR>
 
 
 
