@@ -174,9 +174,9 @@ Click below Workspace Button in Calculations<BR>
 ![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
 
 - Item 07 - AvgVolume <BR>
-![R-Logo](Images/SAC_Model_Calc007.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc007_a.jpg) <BR>
 ![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
 
 - Item 08 - DifferenceOpenClose <BR>
-![R-Logo](Images/SAC_Model_Calc008.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc008_a.jpg) <BR>
 ![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
