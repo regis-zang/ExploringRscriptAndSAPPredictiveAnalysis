@@ -13,11 +13,13 @@ C{Google Drive} -.Forecast.-> B(R-script)
 "First moment in The Language R" <br>
 [#3 - Google Drive](https://github.com/regis-zang/ExploringRscriptAndSAPPredictiveAnalysis/blob/main/3_GoogleDrive.md)
 "Simulate Youre Corporate System File" <br>
-#4 - SAC - Creating a Model  <b><i>W.I.P. 11-sep-2023 </i></b> <br> 
-#5 - SAC - Setting Predictive Time Series 18-sep-2023 <br>
-#6 - SAC - Different Analysis in Model Predictives<br>
-#7 - SAC - Validate The Model<br>
-#8 - Export Data Forecast in Google Drive(Repository of Data Source)<br>
+[#4 - GSAC Creating Model]([https://github.com/regis-zang/ExploringRscriptAndSAPPredictiveAnalysis/blob/main/3_GoogleDrive.md](https://github.com/regis-zang/ExploringRscriptAndSAPPredictiveAnalysis/blob/main/4_SAC_CreatingModel.md))
+"Preparing Model to start." <br>
+#5 - SAC - Import Data  <b><i>W.I.P. 29-sep-2023 </i></b> <br> 
+#6 - SAC - Setting Predictive Time Series xx-oct-2023 <br>
+#7 - SAC - Different Analysis in Model Predictives<br>
+#8 - SAC - Validate The Model<br>
+#9 - Export Data Forecast in Google Drive(Repository of Data Source)<br>
 
 The idea is to create end-to-end Analytical Data from the Source data with R-script.
 R-Script Activities.
