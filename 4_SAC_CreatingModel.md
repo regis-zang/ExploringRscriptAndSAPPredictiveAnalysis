@@ -135,8 +135,12 @@ Firstly we need some informations before this step:
 
 |Nr Item |Calc Measure NAME |C. Meas. Description | Agg - Excption Type|Agg - Exception Aggregation | Formula |
 | --------- | --------- | --------- | ---------| --------- |--------- |
-| Item 01   | MaxHigh    | Maximun High | Average | Date, Symbol |[High]|
-
-
-
+| Item 01   | AvgOpen    | Average Open | Average | Date, Symbol |[Open]|
+| Item 02   | AvgHigh   | Average High | Average | Date, Symbol |[High]|
+| Item 03   | AvgLow    | Average Low | Average | Date, Symbol |[Low]|
+| Item 04   | AvgClose    | Average Close | Average | Date, Symbol |[Close]|
+| Item 05   | MaxHigh    | Maximun High | MAX | Date, Symbol |[High]|
+| Item 07   | MinLow    | Minimun Low | Min | Date, Symbol |[Low]|
+| Item 08   | AvgVolume    | Average Volume | Average | Date, Symbol |[Volume]|
+| Item 09   | DifferenceOpenClose    | Difference From Open and Close | Average | Date, Symbol |[AvgOpen] - [AvgClose]|
 
