@@ -133,9 +133,9 @@ Firstly we need some informations before this step:
 2. SAC provides various calculation options such as mathematical operations, aggregations, condition-based calculations, and complex formulas. Understand the available calculation functions and choose the appropriate ones to perform the desired calculations.
 3. Consider the aggregation level and granularity of your data. Choose the correct aggregation methods (such as sum, average, count) to ensure the accuracy and relevance of your calculations.
 
-|Nr Item |Calc Measure NAME |C. Meas. Description |Agg - Exception Aggregation | Formula |
-| --------- | --------- | --------- | --------- |--------- |
-| Item 01   | MaxHigh    | Maximun High | Date, Symbol |[High]|
+|Nr Item |Calc Measure NAME |C. Meas. Description | Agg - Excption Type|Agg - Exception Aggregation | Formula |
+| --------- | --------- | --------- | ---------| --------- |--------- |
+| Item 01   | MaxHigh    | Maximun High | Average | Date, Symbol |[High]|
 
 
 
