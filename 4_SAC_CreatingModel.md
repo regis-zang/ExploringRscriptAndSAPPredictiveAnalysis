@@ -133,14 +133,27 @@ Firstly we need some informations before this step:
 2. SAC provides various calculation options such as mathematical operations, aggregations, condition-based calculations, and complex formulas. Understand the available calculation functions and choose the appropriate ones to perform the desired calculations.
 3. Consider the aggregation level and granularity of your data. Choose the correct aggregation methods (such as sum, average, count) to ensure the accuracy and relevance of your calculations.
 
-|Nr Item |Calc Measure NAME |C. Meas. Description | Agg - Excption Type|Agg - Exception Aggregation | Formula |
-| --------- | --------- | --------- | ---------| --------- |--------- |
-| Item 01   | AvgOpen    | Average Open | Average | Date, Symbol |[Open]|
-| Item 02   | AvgHigh   | Average High | Average | Date, Symbol |[High]|
-| Item 03   | AvgLow    | Average Low | Average | Date, Symbol |[Low]|
-| Item 04   | AvgClose    | Average Close | Average | Date, Symbol |[Close]|
-| Item 05   | MaxHigh    | Maximun High | MAX | Date, Symbol |[High]|
-| Item 07   | MinLow    | Minimun Low | Min | Date, Symbol |[Low]|
-| Item 08   | AvgVolume    | Average Volume | Average | Date, Symbol |[Volume]|
-| Item 09   | DifferenceOpenClose    | Difference From Open and Close | Average | Date, Symbol |[AvgOpen] - [AvgClose]|
+|Nr Item |Calc Measure NAME |C. Meas. Description | Agg - Excption Type|Agg - Exception Aggregation | Formula | Unit Type |
+| --------- | --------- | --------- | ---------| --------- |--------- |--------- |
+| Item 01   | AvgOpen    | Average Open | Average | Date, Symbol |[Open]| Currency |
+| Item 02   | AvgHigh   | Average High | Average | Date, Symbol |[High]| Currency |
+| Item 03   | AvgLow    | Average Low | Average | Date, Symbol |[Low]| Currency |
+| Item 04   | AvgClose    | Average Close | Average | Date, Symbol |[Close]| Currency |
+| Item 05   | MaxHigh    | Maximun High | MAX | Date, Symbol |[High]| Currency |
+| Item 07   | MinLow    | Minimun Low | Min | Date, Symbol |[Low]| Currency |
+| Item 08   | AvgVolume    | Average Volume | Average | Date, Symbol |[Volume]|  |
+| Item 09   | DifferenceOpenClose    | Difference From Open and Close | Average | Date, Symbol |[AvgOpen] - [AvgClose]| Currency |
+
+
+#### SAC Create Calculated Measure Guide
+Click below Workspace Button in Calculations
+![R-Logo](Images/SAC_Model_Calc001.jpg) <BR><BR>
+
+- Item 01 - AvgOpen <BR>
+![R-Logo](Images/SAC_Model_Calc002.jpg) <BR>
+
+
+
+
+
 
