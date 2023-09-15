@@ -128,6 +128,15 @@ See in your model:<BR>
 ### SAC Create Calculated Measure 
 Now all entity are created and before start to fill tis model left some nice objects what we will used in our model. <BR>
 
+Firstly we need some informations before this step:
+1. Determine the appropriate objects (dimensions, measures, or attributes) that you want to include in your calculation or measure. This selection will depend on the specific analysis requirements and the insights you want to derive from the data.
+2. SAC provides various calculation options such as mathematical operations, aggregations, condition-based calculations, and complex formulas. Understand the available calculation functions and choose the appropriate ones to perform the desired calculations.
+3. Consider the aggregation level and granularity of your data. Choose the correct aggregation methods (such as sum, average, count) to ensure the accuracy and relevance of your calculations.
+
+|Nr Item |Calc Measure NAME |C. Meas. Description |Agg - Exception Aggregation | Formula |
+| --------- | --------- | --------- | --------- |--------- |
+| Item 01   | MaxHigh    | Maximun High | Date, Symbol |[High]|
+
 
 
 
