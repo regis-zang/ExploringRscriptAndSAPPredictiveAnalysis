@@ -140,20 +140,43 @@ Firstly we need some informations before this step:
 | Item 03   | AvgLow    | Average Low | Average | Date, Symbol |[Low]| Currency |
 | Item 04   | AvgClose    | Average Close | Average | Date, Symbol |[Close]| Currency |
 | Item 05   | MaxHigh    | Maximun High | MAX | Date, Symbol |[High]| Currency |
-| Item 07   | MinLow    | Minimun Low | Min | Date, Symbol |[Low]| Currency |
-| Item 08   | AvgVolume    | Average Volume | Average | Date, Symbol |[Volume]|  |
-| Item 09   | DifferenceOpenClose    | Difference From Open and Close | Average | Date, Symbol |[AvgOpen] - [AvgClose]| Currency |
+| Item 06   | MinLow    | Minimun Low | Min | Date, Symbol |[Low]| Currency |
+| Item 07   | AvgVolume    | Average Volume | Average | Date, Symbol |[Volume]|  |
+| Item 08   | DifferenceOpenClose    | Difference From Open and Close | Average | Date, Symbol |[AvgOpen] - [AvgClose]| Currency |
 
 
 #### SAC Create Calculated Measure Guide
-Click below Workspace Button in Calculations
+Click below Workspace Button in Calculations<BR>
 ![R-Logo](Images/SAC_Model_Calc001.jpg) <BR><BR>
 
 - Item 01 - AvgOpen <BR>
 ![R-Logo](Images/SAC_Model_Calc002.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
 
+- Item 02 - AvgHigh <BR>
+![R-Logo](Images/SAC_Model_Calc003.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
 
+- Item 03 - AvgLow <BR>
+![R-Logo](Images/SAC_Model_Calc004.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
 
+*- Item 04 - AvgClose <BR>*
+![R-Logo](Images/SAC_Model_Calc004.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
 
+- Item 05 - MaxHigh <BR>
+![R-Logo](Images/SAC_Model_Calc005.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
 
+- Item 06 - MinLow <BR>
+![R-Logo](Images/SAC_Model_Calc006.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
 
+- Item 07 - AvgVolume <BR>
+![R-Logo](Images/SAC_Model_Calc007.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
+
+- Item 08 - DifferenceOpenClose <BR>
+![R-Logo](Images/SAC_Model_Calc008.jpg) <BR>
+![R-Logo](Images/SAC_Model_Calc001_UnitsCurrencies.jpg) <BR><BR>
