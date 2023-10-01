@@ -14,7 +14,7 @@ Image  = SAC_ImportData001
 <br>
 Image  = SAC_ImportData002
 DataManagemnt
-<center> <img src="Images/SAC_ImportData002.png" width="200" height="100"> </center>
+<center> <img src="Images/SAC_ImportData002.png" width="400" height="100"> </center>
 <br>
 In DataManagemnt we need to click in import Icon<br>
 <center> <img src="Images/SAC_ImportData003.png" width="200" height="100"> </center>
