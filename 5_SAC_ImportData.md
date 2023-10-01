@@ -29,10 +29,10 @@ In Select a data source to click in Google Drive<br>
 <br>
 
 Select Creat a new connection<br>
-<center> <img src="Images/SAC_ImportData006.png" width="200" height="100"> </center>
+<center> <img src="Images/SAC_ImportData006.png" width="400" height="150"> </center>
 <br>
 Select a account what you need to access<br>
-<center> <img src="Images/SAC_ImportData007.png" width="200" height="100"> </center>
+<center> <img src="Images/SAC_ImportData007.png" width="400" height="150"> </center>
 <br>
 
 
